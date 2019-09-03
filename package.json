@@ -2,10 +2,10 @@
   "name": "frontend-data-gift",
   "version": "0.0.0",
   "private": true,
-  "description": "Small description for frontend-data-gift goes here",
-  "repository": "",
+  "description": "Frontend of data.gift",
+  "repository": "http://github.com/redpencilio/frontend-data.gift",
   "license": "MIT",
-  "author": "",
+  "author": "redpencil.io",
   "directories": {
     "doc": "doc",
     "test": "tests"
